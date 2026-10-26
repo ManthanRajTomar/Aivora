@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /chat_api.php
+Disallow: /subscribe.php
+
+Sitemap: sitemap.xml
